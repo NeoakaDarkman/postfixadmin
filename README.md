@@ -12,9 +12,9 @@ PostfixAdmin is a web based interface used to manage mailboxes, virtual domains 
 
 - Lightweight & secure image (no root process)
 - Based on Alpine Linux
-- Latest Postfixadmin version (3.3.1)
+- Latest Postfixadmin version (from master-branch)
 - MariaDB/PostgreSQL driver
-- With PHP7
+- With PHP8.3
 
 ### Built-time variables
 
@@ -73,6 +73,3 @@ postfixadmin:
     - mariadb # postgres (adjust accordingly)
 ```
 
-### How to setup
-
-https://github.com/neoakadarkman/mailserver/wiki/Postfixadmin-initial-configuration
